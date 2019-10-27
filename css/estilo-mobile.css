@@ -1,0 +1,10 @@
+/*Tamanho padrão para smartphones*/
+
+@media (max-width: 360px) {
+    header {
+        display: none;
+    }
+    nav {
+        background: red;
+    }
+}
